@@ -888,10 +888,6 @@ class App extends Component {
       handleToggle
     } = this;
 
-
-----------
-
-
     return (
       <TodoListTemplate form={(
         <Form 
