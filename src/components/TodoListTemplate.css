@@ -20,6 +20,10 @@
   border-bottom: 1px solid #22b8cf;
 }
 
+.palette-wrapper {
+  padding: 1rem;
+  background: #f1f3f5;
+}
 .todos-wrapper {
   min-height: 5rem;
 }
